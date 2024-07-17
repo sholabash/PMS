@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url("../images/sud\ background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.signup-container {
+    max-width: 400px;
+    margin: 6% 15% auto;
+    background-color: rgba(0,0,0,0.1);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+.signup_button
+{
+    margin-top: 30px;
+    background-color: rgb(16, 43, 73);
+    color: white;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.signup_button:hover
+{
+    color: rgb(16, 43, 73);
+    background-color: rgb(51, 113, 177);
+}
+.login_text
+{
+    color: rgb(51, 113, 177);
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}
+.login_text:hover
+{
+    color: rgb(16, 43, 73);
+    text-decoration: none;
+}
+.sign_up_form
+{
+    height: 45px;
+    border-radius: 25px;
+}

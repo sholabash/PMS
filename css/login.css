@@ -1,0 +1,49 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url("../images/sud\ background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.login-container {
+    max-width: 400px;
+    margin: 100px 0 auto;
+    background-color: rgba(0,0,0,0.1);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+.login_button
+{
+    margin-top: 30px;
+    background-color: rgb(16, 43, 73);
+    color: white;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.login_button:hover
+{
+    color: rgb(16, 43, 73);
+    background-color: rgb(51, 113, 177);
+}
+.login_form
+{
+    height: 45px;
+    border-radius: 25px;
+}
+.login_check
+{
+    width: 100%;
+    margin-top: 20px;
+}
+.signup_text
+{
+    color: rgb(51, 113, 177);
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 15px;
+}

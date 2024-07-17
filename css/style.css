@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+}
+.navbar_padding
+{
+    padding: 0px 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar_colour
+{
+    background-color: rgb(239, 239, 239);
+    font-weight: 700;
+    color: black;
+}
+.dashboard-container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1);
+}
+.dashboard-heading {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.card {
+    border-radius: 10px;
+}
+.card_head_weight
+{
+    font-weight: 650;
+}
